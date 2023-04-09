@@ -11,4 +11,5 @@
 
 коментарі до коду.
 
-
+link for vue 3: 
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
